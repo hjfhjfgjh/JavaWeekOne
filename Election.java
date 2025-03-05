@@ -22,7 +22,7 @@
             // Calculate total votes for each candidate
             double totalAubrey = nyAubrey + njAubrey + ctAubrey;
             double totalMartinez = nyMartinez + njMartinez + ctMartinez;
-            double totalresults - Election.main(String[])
+            double results = totalAubrey + totalMartinez;
         }
     }
     
