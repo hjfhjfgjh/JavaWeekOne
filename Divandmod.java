@@ -1,5 +1,5 @@
-/*ayden santiago*/
-public class DIVANDMOD {
+/*ayden santiago
+public class DIVANDMOD;
     import java.util.*;
     public static void main(String[]args)
     Scanner input = new Scanner(System.in);
@@ -27,4 +27,4 @@ public class DIVANDMOD {
 
 
 
-}
+}*/

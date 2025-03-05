@@ -1,5 +1,5 @@
 /*aydensantiago
-GradeAVG*/
+GradeAVG
 import java.util.*;
 
 public class tempconverter {
@@ -12,4 +12,4 @@ public class tempconverter {
         Celsius = 5 * (Fahreinheit - 32) / 9;
         System.out.println("Your Celsius temp is " + Celsius);
     }
-}
+}*/
