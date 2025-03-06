@@ -1,5 +1,5 @@
 /*aydensantiago*/
-    import java.util.Scanner; // Import Scanner to read user input
+    import java.util.Scanner; 
     public class Election {
         public static void main(String[] args) {
             // Create a Scanner to get input from the user
@@ -23,6 +23,3 @@
             double totalAubrey = nyAubrey + njAubrey + ctAubrey;
             double totalMartinez = nyMartinez + njMartinez + ctMartinez;
             double results = totalAubrey + totalMartinez;
-        }
-    }
-    
